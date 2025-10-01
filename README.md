@@ -37,7 +37,7 @@ What are the top-performing and underperforming salespersons?
 ✔️ Customer Segmentation – Sales contribution by segment
 ✔️ Profitability Analysis – Discount impact on profit margins
 
-[Dashboard Overview](images/dashboard.png))
+[Dashboard Overview]([images/dashboard.png)](https://github.com/Shadabsam/Sales-Data/blob/0126f7efdf1252892eac23452fa6eb9ded741f2b/Overview.png))
 
 🛠️ Tools & Technologies
 
