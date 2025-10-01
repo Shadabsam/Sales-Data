@@ -40,7 +40,7 @@ What are the top-performing and underperforming salespersons?
 ![Image Alt](https://github.com/Shadabsam/Sales-Data/blob/7e8ca861adec344d058bff6d2f9749e8be003653/Overview.png)
 ![Image Alt](https://github.com/Shadabsam/Sales-Data/blob/75ac696fc2a1dd2b2700a67b08652560cd7b34b5/Table%20Visual.png)
 ![Image Alt](https://github.com/Shadabsam/Sales-Data/blob/2c908b29bfbd20e5cefca3b49f6fa1d85864e710/Requirment%204.png)
-![Image Alt]
+![Image Alt](https://github.com/Shadabsam/Sales-Data/blob/a6e5aa748fa31017a11339b87ca65a25760927bd/Top%20and%20Bottom%20.png)
 
 🛠️ Tools & Technologies
 
